@@ -1,5 +1,5 @@
 # Demo
 
-A folder with all the information about my project! Now the party begins!
+Just folloowing basic Github tutorials
 
 
